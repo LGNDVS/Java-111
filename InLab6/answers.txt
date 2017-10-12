@@ -1,0 +1,11 @@
+1. It works for any function that the function method would output. 
+Gives a x value to the fuction and then the fuction method return 
+the height of the function at that point.
+
+2. The more and more midpoints that are used on the curve, it becomes 
+less of an estimation and more of an exact answer.
+
+3. Integration is just doing a calculation and not creating a new 
+object that has been called from the driver.
+
+4. There is a direct call to integration from main and main is static method.

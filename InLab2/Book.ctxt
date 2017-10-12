@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=inTitle\ inNumBook\ inPrice
+comment0.target=Book(java.lang.String,\ int,\ double)
+comment1.params=
+comment1.target=java.lang.String\ getTitle()
+comment2.params=
+comment2.target=int\ getNumBook()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=double\ CalculateValue()
+numComments=5

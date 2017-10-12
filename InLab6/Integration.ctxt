@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=lb\ ub\ numRec
+comment0.target=double\ numericallyIntegrate(double,\ double,\ int)
+comment1.params=x
+comment1.target=double\ function(double)
+numComments=2

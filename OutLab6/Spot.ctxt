@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ getVisited()
+comment1.params=val
+comment1.target=void\ setVisited(boolean)
+comment2.params=
+comment2.target=int\ getShip()
+comment3.params=val
+comment3.target=void\ setShip(int)
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nameIn
+comment0.target=Player(java.lang.String)
+comment1.params=atBats
+comment1.target=void\ addAtBats(int)
+comment2.params=hits
+comment2.target=void\ addHits(int)
+comment3.params=
+comment3.target=void\ printStat()
+numComments=4
